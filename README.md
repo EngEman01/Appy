@@ -6,6 +6,7 @@
 ## 🛠️ Technologies Used
 - HTML  
 - CSS
+- JS
 
 ## ✨ Features
 - Responsive design compatible with all devices  
